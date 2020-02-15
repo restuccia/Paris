@@ -1,3 +1,9 @@
+---
+layout: page
+title: Places
+order: 1
+---
+
 # To go out at night
 - [L'Alimentation Générale](https://g.page/lalimentation-generale) (11éme - Oberkampf) - Cheap bar, often has live music.
 - [Les Sans Culottes](https://goo.gl/maps/i7JMq4ft2Rx4f6d56) (11éme - Bastille) - Old style bistro where you can have a cheap beer.

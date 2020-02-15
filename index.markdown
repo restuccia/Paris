@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Places
+title: My list of places in Paris
 order: 1
 ---
+
+The following is a list of places in Paris that I like, that I want to see, that I deem interesting.
+The list includes bars, museum, architecturally interesting buildings, parks, etc. Feel free to dm me on [twitter](https://www.twitter.com/mario_restuccia) to suggest me new places to add.
 
 # To go out at night
 - [L'Alimentation Générale](https://g.page/lalimentation-generale) (11éme - Oberkampf) - Cheap bar, often has live music.

@@ -5,7 +5,7 @@ order: 1
 ---
 
 The following is a list of places in Paris that I like, that I want to see, that I deem interesting.
-The list includes bars, museum, architecturally interesting buildings, parks, etc. Feel free to dm me on [twitter](https://www.twitter.com/mario_restuccia) to suggest me new places to add.
+The list includes bars, museum, architecturally interesting buildings, parks, etc. Feel free to email me (mario at this domain) to suggest me new places to add.
 
 # To go out at night
 - [L'Alimentation Générale](https://g.page/lalimentation-generale) (11éme - Oberkampf) - Cheap bar, often has live music.
@@ -19,6 +19,9 @@ The list includes bars, museum, architecturally interesting buildings, parks, et
 - [Sputnik](https://goo.gl/maps/9S6kp9mUQi3BZN9o7) (13éme - Butte-aux-Cailles) - One of the many (cheap) bars in the lovely district of Butte-aux-Cailles.
 - [Zéro Zéro](https://goo.gl/maps/2uNhoD2AsANigj4r7) (11éme - Filles du Calvaire) - To be reviewed.
 - [Café Mama Kin](https://g.page/cafemamakin) (19éme - Canal de l'Ourcq) - Small cute bar in a lovely district.
+- [Café Rhum Marin](https://goo.gl/maps/j6Uqe3ooZRT9MxeN8) (11éme - Saint-Maur) - To be reviewed. They have lots of rum.
+- [Le Perchoir Marais](https://goo.gl/maps/a6xbvFYDYM1VTDYM6) (3éme - Marais) - To be reviewed. Rooftop bar with amazing view.
+- [Lavomatic](https://goo.gl/maps/evUs8g9SwfLStBaa8) (10éme - République) - To be reviewed. Speakeasy cocktail bar.
 
 # To study
 - [Bibliothèque François-Mitterrand](https://goo.gl/maps/RbGJirFpLMthShWy7) (14éme - Gare) - A must-see and a great place to study. The annual card is 15 €, but you can visit for free.
@@ -34,8 +37,9 @@ I think most — if not all — cafés in Paris are good for a glass of wine and
 - [Le Pop-up du Label](https://goo.gl/maps/ZBQY1w5K7bKBZ7ns7) (12éme - Gare de Lyon) - To be reviewed, maybe a bit hipster but looks very cool.
 - [BarOurcq](https://goo.gl/maps/vJDDFVEDajPKFiTk6) (19éme - Canal de l'Ourcq) - Lovely bar in front of the canal. You could also take a beer and drink it while sitting on the _quai_.
 - [Le Bistrot du Croissant](https://g.page/bistrot-du-croissant?share) (2éme - Bourse) - Apparently a bar like any other, but in 1914 Jean Jaurès was killed here while having dinner.
-
-
+- [Ten Belles Bread](https://goo.gl/maps/EbMpgdgCWAAViYBm6) (11éme - Richard Lenoir) - Good place to work/study.
+- [La Petite Mutinerie](https://goo.gl/maps/7a5EjTWTHtDECuLE6) (Bois de Boulogne) - Open air bar in the Bois de Boulogne, surrounded by nature.
+- [Maison Sauvage](https://goo.gl/maps/hPa1rQJCUJeCWpxc9) (6éme - Odéon) - Fancy, beautiful bar in a building covered by plants. A bit expensive.
 
 # To walk
 - [Cité du Figuier](https://goo.gl/maps/Dk9gkVaJM5cFyEGa6) (11éme - Oberkampf) - To be reviewed.
@@ -47,9 +51,11 @@ I think most — if not all — cafés in Paris are good for a glass of wine and
 - [Place de la Commune de Paris](https://goo.gl/maps/TAs4petwkLo4XB3D9) (13éme - Butte-aux-Cailles) - The neighbourhood of Butte-aux-Cailles is a must see during the day, and full of great bars at night.
 - [Square Yves-Klein](https://goo.gl/maps/VbXeWz3QyAZ97Lk3A) (14éme - Raspail) - Yves Klein was an artist, famous for his own colour: the Klein blue. In this very small park, the benches are blue. The building in front of it (31 Rue Campagne Première) is stunning.
 - [Square de la Place de La Réunion](https://goo.gl/maps/6hHsGApE6YQRZCku8) (20éme - Charonne) - Nice square, nice neighbourhood. One of Europe's coolest neighbourhoods according to [The Guardian](https://www.theguardian.com/travel/2020/feb/08/10-of-the-coolest-neighbourhoods-in-europe-paris-berlin-rome).
+- [Jardin Mémorial des Enfants du Vel’ d’Hiv’](https://goo.gl/maps/JKWSRotyqVCH5UHd7) (15éme - Champ de Mars) - A monument to commemorate the [Vel d'Hiv' roundup](https://en.wikipedia.org/wiki/Vel%27_d%27Hiv_Roundup).
 
 # Far from the city
 - [Forteresse Du Mont-Valérien](https://goo.gl/maps/CwT8ovC7MvjECdDF7) (92) - Old fort with a nice view.
+- [La Prairie du Canal](https://goo.gl/maps/RtXpgeVdgrxD14bG6) (Bobigny - 93) - A sort of shared garden on the canal.
 
 # Arts and culture
 - [Théâtre du Palais-Royal](https://goo.gl/maps/7ccvoKendDxLMYab9) (1er) - Beautiful, small and old theatre. Offers cheap tickets for students.
@@ -64,6 +70,9 @@ I think most — if not all — cafés in Paris are good for a glass of wine and
 - [La Massara](https://goo.gl/maps/QjMbD4XBmosyGi2Q7) (3éme - Arts et Métiers) - Sicilian pizzeria, do I need to say more?
 - [La Cantine Bretonne](https://goo.gl/maps/rLsUFvR5BPr5jsjF8) (19éme - Canal de l'Ourcq) - Delicious _galettes_ and _crêpes_ from Bretagne. They also have a very good cider.
 - [Chez les deux amis](https://goo.gl/maps/vwk724Rz1Z7ArZrB8) (20éme - Ménilmontant) - A Kurdish restaurant with very good döner and other specialties.
+- [Les Niçois](https://g.page/lesnicoisrestaurant?share) (11éme - Parmentier) - To be reviewed. Specialties from the South of France. They also have a place to play pétanque.
+- [Big Falafel](https://goo.gl/maps/Myh6YZrkvyfnAxCw6) (11éme - Saint-Maur) - Korean-Lebanese fusion restaurant (yes, sounds weird but it's very good). The owner is super lovely.
+- [Jixao's Buns](https://goo.gl/maps/SnTfSU6caSNyAYp48) (6éme - Saint-Michel) - Small Chinese restaurant specialised in buns. Also very cheap.
 
 # Urbex
 - [Some building in Bois de Boulogne](https://goo.gl/maps/eJBTTVniioNboHaLA)
